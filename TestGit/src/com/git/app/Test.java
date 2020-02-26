@@ -10,6 +10,9 @@ public class Test {
 		s=a+b;
 		System.out.println("Sum is:" +s);
 		
+		//program 2
+		 int d=b-a;
+		 System.out.println("Difference is:  "+d);
 		
 	}
 
